@@ -1,0 +1,25 @@
+body {
+  font-family: system-ui;
+  background: #dae5d0;
+}
+h2 {
+  color: #205375;
+  text-align: center;
+  color: #446a46;
+}
+div {
+  margin: 35px;
+  color: #205375;
+}
+hr {
+  border-style: dotted;
+  width: 75%;
+}
+.s{
+color: #205375;
+}
+.c{
+text-align:center;
+color: #205375;
+
+}

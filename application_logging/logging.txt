@@ -1,0 +1,1232 @@
+2022-07-30/14:47:48		file is already been imported from the cassandra database
+2022-07-30/15:52:43		training of Gradient boost algorithm has begun
+2022-07-30/15:52:43		training score of gradient boost is 0.908909127438422
+2022-07-30/15:52:43		training done
+2022-07-30/15:52:43		predicitng started
+2022-07-30/15:52:43		testing score of gradient boost is 0.830446421803303
+2022-07-30/15:52:43		hyperparameter tuning of random forest has begun
+2022-07-30/15:52:43		hyperparameter tuning has done successfully
+2022-07-30/15:52:43		training of random forest model has begun
+2022-07-30/15:52:48		training score of random forest is 0.8998345189186804
+2022-07-30/15:52:48		training done
+2022-07-30/15:52:48		predicitng started
+2022-07-30/15:52:48		testing score random forest is 0.8344812897211547
+2022-07-30/15:52:48		hyperparameter tuning of decision tree regressor has started
+2022-07-30/15:52:48		hyperparameter is successfully completed
+2022-07-30/15:52:48		training of model has started
+2022-07-30/15:52:48		training score of decision tree is 0.907337038216115
+2022-07-30/15:52:48		training done
+2022-07-30/15:52:48		prediction has started
+2022-07-30/15:52:48		testing score of decision tree is 0.7920270117141047
+2022-07-30/15:52:43		file is already been imported from the cassandra database
+2022-07-30/15:52:43		encoding started
+2022-07-30/15:52:43		done with encoding
+2022-07-30/15:52:43		splitting done
+2022-07-30/15:52:43		splitting done
+2022-07-30/15:52:43		training scaling is done
+2022-07-30/15:52:43		splitting done
+2022-07-30/15:52:43		testing scaling is done
+2022-07-30/15:52:43		splitting done
+2022-07-30/15:52:43		training scaling is done
+2022-07-30/15:52:43		splitting done
+2022-07-30/15:52:43		testing scaling is done
+2022-07-30/15:52:43		splitting done
+2022-07-30/15:52:43		splitting done
+2022-07-30/15:52:43		splitting done
+2022-07-30/15:52:43		training scaling is done
+2022-07-30/15:52:43		splitting done
+2022-07-30/15:52:43		testing scaling is done
+2022-07-30/15:52:48		splitting done
+2022-07-30/15:52:48		training scaling is done
+2022-07-30/15:52:48		splitting done
+2022-07-30/15:52:48		testing scaling is done
+2022-07-30/15:52:48		splitting done
+2022-07-30/15:52:48		splitting done
+2022-07-30/15:52:48		splitting done
+2022-07-30/15:52:48		training scaling is done
+2022-07-30/15:52:48		splitting done
+2022-07-30/15:52:48		testing scaling is done
+2022-07-30/15:52:48		splitting done
+2022-07-30/15:52:48		training scaling is done
+2022-07-30/15:52:48		splitting done
+2022-07-30/15:52:48		testing scaling is done
+2022-07-30/15:52:48		splitting done
+2022-07-30/15:52:43		model selection has begun
+2022-07-30/15:52:43		gradient boost score is 0.830446421803303
+2022-07-30/15:52:48		random forest score is 0.8344812897211547
+2022-07-30/15:52:48		decision tree score is 0.7920270117141047
+2022-07-30/15:52:48		maximum score model is random_forest with score: 0.8344812897211547
+2022-07-30/15:54:38		training of Gradient boost algorithm has begun
+2022-07-30/15:54:38		training score of gradient boost is 0.908909127438422
+2022-07-30/15:54:38		training done
+2022-07-30/15:54:38		predicitng started
+2022-07-30/15:54:38		testing score of gradient boost is 0.8309616475906499
+2022-07-30/15:54:38		hyperparameter tuning of random forest has begun
+2022-07-30/15:54:38		hyperparameter tuning has done successfully
+2022-07-30/15:54:38		training of random forest model has begun
+2022-07-30/15:54:43		training score of random forest is 0.8917867993405239
+2022-07-30/15:54:43		training done
+2022-07-30/15:54:43		predicitng started
+2022-07-30/15:54:43		testing score random forest is 0.8411213623399248
+2022-07-30/15:54:43		hyperparameter tuning of decision tree regressor has started
+2022-07-30/15:54:43		hyperparameter is successfully completed
+2022-07-30/15:54:43		training of model has started
+2022-07-30/15:54:43		training score of decision tree is 0.907337038216115
+2022-07-30/15:54:43		training done
+2022-07-30/15:54:43		prediction has started
+2022-07-30/15:54:43		testing score of decision tree is 0.7962438258011811
+2022-07-30/15:54:38		file is already been imported from the cassandra database
+2022-07-30/15:54:38		encoding started
+2022-07-30/15:54:38		done with encoding
+2022-07-30/15:54:38		splitting done
+2022-07-30/15:54:38		splitting done
+2022-07-30/15:54:38		training scaling is done
+2022-07-30/15:54:38		splitting done
+2022-07-30/15:54:38		testing scaling is done
+2022-07-30/15:54:38		splitting done
+2022-07-30/15:54:38		training scaling is done
+2022-07-30/15:54:38		splitting done
+2022-07-30/15:54:38		testing scaling is done
+2022-07-30/15:54:38		splitting done
+2022-07-30/15:54:38		splitting done
+2022-07-30/15:54:38		splitting done
+2022-07-30/15:54:38		training scaling is done
+2022-07-30/15:54:38		splitting done
+2022-07-30/15:54:38		testing scaling is done
+2022-07-30/15:54:43		splitting done
+2022-07-30/15:54:43		training scaling is done
+2022-07-30/15:54:43		splitting done
+2022-07-30/15:54:43		testing scaling is done
+2022-07-30/15:54:43		splitting done
+2022-07-30/15:54:43		splitting done
+2022-07-30/15:54:43		splitting done
+2022-07-30/15:54:43		training scaling is done
+2022-07-30/15:54:43		splitting done
+2022-07-30/15:54:43		testing scaling is done
+2022-07-30/15:54:43		splitting done
+2022-07-30/15:54:43		training scaling is done
+2022-07-30/15:54:43		splitting done
+2022-07-30/15:54:43		testing scaling is done
+2022-07-30/15:54:43		splitting done
+2022-07-30/15:54:38		model selection has begun
+2022-07-30/15:54:38		gradient boost score is 0.8309616475906499
+2022-07-30/15:54:43		random forest score is 0.8411213623399248
+2022-07-30/15:54:43		decision tree score is 0.7962438258011811
+2022-07-30/15:54:43		maximum score model is random_forest with score: 0.8411213623399248
+2022-07-30/15:55:33		training of Gradient boost algorithm has begun
+2022-07-30/15:55:33		training score of gradient boost is 0.908909127438422
+2022-07-30/15:55:33		training done
+2022-07-30/15:55:34		predicitng started
+2022-07-30/15:55:34		testing score of gradient boost is 0.8304924864841816
+2022-07-30/15:55:34		hyperparameter tuning of random forest has begun
+2022-07-30/15:55:34		hyperparameter tuning has done successfully
+2022-07-30/15:55:34		training of random forest model has begun
+2022-07-30/15:55:38		training score of random forest is 0.8920117516729489
+2022-07-30/15:55:38		training done
+2022-07-30/15:55:38		predicitng started
+2022-07-30/15:55:38		testing score random forest is 0.8372614857371542
+2022-07-30/15:55:38		hyperparameter tuning of decision tree regressor has started
+2022-07-30/15:55:38		hyperparameter is successfully completed
+2022-07-30/15:55:38		training of model has started
+2022-07-30/15:55:38		training score of decision tree is 0.907337038216115
+2022-07-30/15:55:38		training done
+2022-07-30/15:55:38		prediction has started
+2022-07-30/15:55:38		testing score of decision tree is 0.7920270117141047
+2022-07-30/15:55:33		file is already been imported from the cassandra database
+2022-07-30/15:55:33		encoding started
+2022-07-30/15:55:33		done with encoding
+2022-07-30/15:55:33		splitting done
+2022-07-30/15:55:33		splitting done
+2022-07-30/15:55:33		training scaling is done
+2022-07-30/15:55:33		splitting done
+2022-07-30/15:55:33		testing scaling is done
+2022-07-30/15:55:33		splitting done
+2022-07-30/15:55:33		training scaling is done
+2022-07-30/15:55:33		splitting done
+2022-07-30/15:55:33		testing scaling is done
+2022-07-30/15:55:34		splitting done
+2022-07-30/15:55:34		splitting done
+2022-07-30/15:55:34		splitting done
+2022-07-30/15:55:34		training scaling is done
+2022-07-30/15:55:34		splitting done
+2022-07-30/15:55:34		testing scaling is done
+2022-07-30/15:55:38		splitting done
+2022-07-30/15:55:38		training scaling is done
+2022-07-30/15:55:38		splitting done
+2022-07-30/15:55:38		testing scaling is done
+2022-07-30/15:55:38		splitting done
+2022-07-30/15:55:38		splitting done
+2022-07-30/15:55:38		splitting done
+2022-07-30/15:55:38		training scaling is done
+2022-07-30/15:55:38		splitting done
+2022-07-30/15:55:38		testing scaling is done
+2022-07-30/15:55:38		splitting done
+2022-07-30/15:55:38		training scaling is done
+2022-07-30/15:55:38		splitting done
+2022-07-30/15:55:38		testing scaling is done
+2022-07-30/15:55:38		splitting done
+2022-07-30/15:55:33		model selection has begun
+2022-07-30/15:55:34		gradient boost score is 0.8304924864841816
+2022-07-30/15:55:38		random forest score is 0.8372614857371542
+2022-07-30/15:55:38		decision tree score is 0.7920270117141047
+2022-07-30/15:55:38		maximum score model is random_forest with score: 0.8372614857371542
+2022-07-30/15:55:38		done with encoding
+2022-07-30/15:59:08		training of Gradient boost algorithm has begun
+2022-07-30/15:59:08		training score of gradient boost is 0.908909127438422
+2022-07-30/15:59:08		training done
+2022-07-30/15:59:08		predicitng started
+2022-07-30/15:59:08		testing score of gradient boost is 0.8304924864841816
+2022-07-30/15:59:08		hyperparameter tuning of random forest has begun
+2022-07-30/15:59:08		hyperparameter tuning has done successfully
+2022-07-30/15:59:08		training of random forest model has begun
+2022-07-30/15:59:13		training score of random forest is 0.8912964385545215
+2022-07-30/15:59:13		training done
+2022-07-30/15:59:13		predicitng started
+2022-07-30/15:59:13		testing score random forest is 0.840482104794039
+2022-07-30/15:59:13		hyperparameter tuning of decision tree regressor has started
+2022-07-30/15:59:13		hyperparameter is successfully completed
+2022-07-30/15:59:13		training of model has started
+2022-07-30/15:59:13		training score of decision tree is 0.907337038216115
+2022-07-30/15:59:13		training done
+2022-07-30/15:59:13		prediction has started
+2022-07-30/15:59:13		testing score of decision tree is 0.7920270117141047
+2022-07-30/15:59:08		file is already been imported from the cassandra database
+2022-07-30/15:59:08		encoding started
+2022-07-30/15:59:08		done with encoding
+2022-07-30/15:59:08		splitting done
+2022-07-30/15:59:08		splitting done
+2022-07-30/15:59:08		training scaling is done
+2022-07-30/15:59:08		splitting done
+2022-07-30/15:59:08		testing scaling is done
+2022-07-30/15:59:08		splitting done
+2022-07-30/15:59:08		training scaling is done
+2022-07-30/15:59:08		splitting done
+2022-07-30/15:59:08		testing scaling is done
+2022-07-30/15:59:08		splitting done
+2022-07-30/15:59:08		splitting done
+2022-07-30/15:59:08		splitting done
+2022-07-30/15:59:08		training scaling is done
+2022-07-30/15:59:08		splitting done
+2022-07-30/15:59:08		testing scaling is done
+2022-07-30/15:59:13		splitting done
+2022-07-30/15:59:13		training scaling is done
+2022-07-30/15:59:13		splitting done
+2022-07-30/15:59:13		testing scaling is done
+2022-07-30/15:59:13		splitting done
+2022-07-30/15:59:13		splitting done
+2022-07-30/15:59:13		splitting done
+2022-07-30/15:59:13		training scaling is done
+2022-07-30/15:59:13		splitting done
+2022-07-30/15:59:13		testing scaling is done
+2022-07-30/15:59:13		splitting done
+2022-07-30/15:59:13		training scaling is done
+2022-07-30/15:59:13		splitting done
+2022-07-30/15:59:13		testing scaling is done
+2022-07-30/15:59:13		splitting done
+2022-07-30/15:59:08		model selection has begun
+2022-07-30/15:59:08		gradient boost score is 0.8304924864841816
+2022-07-30/15:59:13		random forest score is 0.840482104794039
+2022-07-30/15:59:13		decision tree score is 0.7920270117141047
+2022-07-30/15:59:13		maximum score model is random_forest with score: 0.840482104794039
+2022-07-30/16:00:00		training of Gradient boost algorithm has begun
+2022-07-30/16:00:00		training score of gradient boost is 0.908909127438422
+2022-07-30/16:00:00		training done
+2022-07-30/16:00:00		predicitng started
+2022-07-30/16:00:00		testing score of gradient boost is 0.831603895848859
+2022-07-30/16:00:00		hyperparameter tuning of random forest has begun
+2022-07-30/16:00:00		hyperparameter tuning has done successfully
+2022-07-30/16:00:00		training of random forest model has begun
+2022-07-30/16:00:04		training score of random forest is 0.8912526671745118
+2022-07-30/16:00:04		training done
+2022-07-30/16:00:04		predicitng started
+2022-07-30/16:00:04		testing score random forest is 0.8415812954244344
+2022-07-30/16:00:04		hyperparameter tuning of decision tree regressor has started
+2022-07-30/16:00:04		hyperparameter is successfully completed
+2022-07-30/16:00:04		training of model has started
+2022-07-30/16:00:04		training score of decision tree is 0.907337038216115
+2022-07-30/16:00:04		training done
+2022-07-30/16:00:04		prediction has started
+2022-07-30/16:00:04		testing score of decision tree is 0.7962438258011811
+2022-07-30/16:00:00		file is already been imported from the cassandra database
+2022-07-30/16:00:00		encoding started
+2022-07-30/16:00:00		done with encoding
+2022-07-30/16:00:00		splitting done
+2022-07-30/16:00:00		splitting done
+2022-07-30/16:00:00		training scaling is done
+2022-07-30/16:00:00		splitting done
+2022-07-30/16:00:00		testing scaling is done
+2022-07-30/16:00:00		splitting done
+2022-07-30/16:00:00		training scaling is done
+2022-07-30/16:00:00		splitting done
+2022-07-30/16:00:00		testing scaling is done
+2022-07-30/16:00:00		splitting done
+2022-07-30/16:00:00		splitting done
+2022-07-30/16:00:00		splitting done
+2022-07-30/16:00:00		training scaling is done
+2022-07-30/16:00:00		splitting done
+2022-07-30/16:00:00		testing scaling is done
+2022-07-30/16:00:04		splitting done
+2022-07-30/16:00:04		training scaling is done
+2022-07-30/16:00:04		splitting done
+2022-07-30/16:00:04		testing scaling is done
+2022-07-30/16:00:04		splitting done
+2022-07-30/16:00:04		splitting done
+2022-07-30/16:00:04		splitting done
+2022-07-30/16:00:04		training scaling is done
+2022-07-30/16:00:04		splitting done
+2022-07-30/16:00:04		testing scaling is done
+2022-07-30/16:00:04		splitting done
+2022-07-30/16:00:04		training scaling is done
+2022-07-30/16:00:04		splitting done
+2022-07-30/16:00:04		testing scaling is done
+2022-07-30/16:00:04		splitting done
+2022-07-30/16:00:00		model selection has begun
+2022-07-30/16:00:00		gradient boost score is 0.831603895848859
+2022-07-30/16:00:04		random forest score is 0.8415812954244344
+2022-07-30/16:00:04		decision tree score is 0.7962438258011811
+2022-07-30/16:00:04		maximum score model is random_forest with score: 0.8415812954244344
+2022-07-30/16:00:05		done with encoding
+2022-07-30/16:00:05		final prediction for input is [6839.8762802]
+2022-07-30/16:02:24		training of Gradient boost algorithm has begun
+2022-07-30/16:02:24		training score of gradient boost is 0.908909127438422
+2022-07-30/16:02:24		training done
+2022-07-30/16:02:24		predicitng started
+2022-07-30/16:02:24		testing score of gradient boost is 0.8304464218033029
+2022-07-30/16:02:24		hyperparameter tuning of random forest has begun
+2022-07-30/16:02:24		hyperparameter tuning has done successfully
+2022-07-30/16:02:24		training of random forest model has begun
+2022-07-30/16:02:28		training score of random forest is 0.8919503647484676
+2022-07-30/16:02:28		training done
+2022-07-30/16:02:28		predicitng started
+2022-07-30/16:02:28		testing score random forest is 0.8408625584370989
+2022-07-30/16:02:28		hyperparameter tuning of decision tree regressor has started
+2022-07-30/16:02:28		hyperparameter is successfully completed
+2022-07-30/16:02:28		training of model has started
+2022-07-30/16:02:28		training score of decision tree is 0.907337038216115
+2022-07-30/16:02:28		training done
+2022-07-30/16:02:28		prediction has started
+2022-07-30/16:02:28		testing score of decision tree is 0.7962438258011811
+2022-07-30/16:02:24		file is already been imported from the cassandra database
+2022-07-30/16:02:24		encoding started
+2022-07-30/16:02:24		done with encoding
+2022-07-30/16:02:24		splitting done
+2022-07-30/16:02:24		splitting done
+2022-07-30/16:02:24		training scaling is done
+2022-07-30/16:02:24		splitting done
+2022-07-30/16:02:24		testing scaling is done
+2022-07-30/16:02:24		splitting done
+2022-07-30/16:02:24		training scaling is done
+2022-07-30/16:02:24		splitting done
+2022-07-30/16:02:24		testing scaling is done
+2022-07-30/16:02:24		splitting done
+2022-07-30/16:02:24		splitting done
+2022-07-30/16:02:24		splitting done
+2022-07-30/16:02:24		training scaling is done
+2022-07-30/16:02:24		splitting done
+2022-07-30/16:02:24		testing scaling is done
+2022-07-30/16:02:28		splitting done
+2022-07-30/16:02:28		training scaling is done
+2022-07-30/16:02:28		splitting done
+2022-07-30/16:02:28		testing scaling is done
+2022-07-30/16:02:28		splitting done
+2022-07-30/16:02:28		splitting done
+2022-07-30/16:02:28		splitting done
+2022-07-30/16:02:28		training scaling is done
+2022-07-30/16:02:28		splitting done
+2022-07-30/16:02:28		testing scaling is done
+2022-07-30/16:02:28		splitting done
+2022-07-30/16:02:28		training scaling is done
+2022-07-30/16:02:28		splitting done
+2022-07-30/16:02:28		testing scaling is done
+2022-07-30/16:02:28		splitting done
+2022-07-30/16:02:24		model selection has begun
+2022-07-30/16:02:24		gradient boost score is 0.8304464218033029
+2022-07-30/16:02:28		random forest score is 0.8408625584370989
+2022-07-30/16:02:28		decision tree score is 0.7962438258011811
+2022-07-30/16:02:28		maximum score model is random_forest with score: 0.8408625584370989
+2022-07-30/16:02:28		done with encoding
+2022-07-30/16:02:28		final prediction for input is [6997.39454157]
+2022-07-30/19:00:45		training of Gradient boost algorithm has begun
+2022-07-30/19:00:45		training score of gradient boost is 0.908909127438422
+2022-07-30/19:00:45		training done
+2022-07-30/19:00:45		predicitng started
+2022-07-30/19:00:45		testing score of gradient boost is 0.8304924864841816
+2022-07-30/19:00:45		hyperparameter tuning of random forest has begun
+2022-07-30/19:00:45		hyperparameter tuning has done successfully
+2022-07-30/19:00:45		training of random forest model has begun
+2022-07-30/19:00:50		training score of random forest is 0.8916272434208354
+2022-07-30/19:00:50		training done
+2022-07-30/19:00:50		predicitng started
+2022-07-30/19:00:50		testing score random forest is 0.8404471768469242
+2022-07-30/19:00:50		hyperparameter tuning of decision tree regressor has started
+2022-07-30/19:00:50		hyperparameter is successfully completed
+2022-07-30/19:00:50		training of model has started
+2022-07-30/19:00:50		training score of decision tree is 0.907337038216115
+2022-07-30/19:00:50		training done
+2022-07-30/19:00:50		prediction has started
+2022-07-30/19:00:50		testing score of decision tree is 0.7920270117141047
+2022-07-30/19:00:45		file is already been imported from the cassandra database
+2022-07-30/19:00:45		encoding started
+2022-07-30/19:00:45		done with encoding
+2022-07-30/19:00:45		splitting done
+2022-07-30/19:00:45		splitting done
+2022-07-30/19:00:45		training scaling is done
+2022-07-30/19:00:45		splitting done
+2022-07-30/19:00:45		testing scaling is done
+2022-07-30/19:00:45		splitting done
+2022-07-30/19:00:45		training scaling is done
+2022-07-30/19:00:45		splitting done
+2022-07-30/19:00:45		testing scaling is done
+2022-07-30/19:00:45		splitting done
+2022-07-30/19:00:45		splitting done
+2022-07-30/19:00:45		splitting done
+2022-07-30/19:00:45		training scaling is done
+2022-07-30/19:00:45		splitting done
+2022-07-30/19:00:45		testing scaling is done
+2022-07-30/19:00:50		splitting done
+2022-07-30/19:00:50		training scaling is done
+2022-07-30/19:00:50		splitting done
+2022-07-30/19:00:50		testing scaling is done
+2022-07-30/19:00:50		splitting done
+2022-07-30/19:00:50		splitting done
+2022-07-30/19:00:50		splitting done
+2022-07-30/19:00:50		training scaling is done
+2022-07-30/19:00:50		splitting done
+2022-07-30/19:00:50		testing scaling is done
+2022-07-30/19:00:50		splitting done
+2022-07-30/19:00:50		training scaling is done
+2022-07-30/19:00:50		splitting done
+2022-07-30/19:00:50		testing scaling is done
+2022-07-30/19:00:50		splitting done
+2022-07-30/19:00:45		model selection has begun
+2022-07-30/19:00:45		gradient boost score is 0.8304924864841816
+2022-07-30/19:00:50		random forest score is 0.8404471768469242
+2022-07-30/19:00:50		decision tree score is 0.7920270117141047
+2022-07-30/19:00:50		maximum score model is random_forest with score: 0.8404471768469242
+2022-07-30/19:00:50		done with encoding
+2022-07-30/19:00:50		final prediction for input is [7381.86224967]
+2022-07-30/23:50:51		training of Gradient boost algorithm has begun
+2022-07-30/23:50:51		training score of gradient boost is 0.908909127438422
+2022-07-30/23:50:51		training done
+2022-07-30/23:50:51		prediction started
+2022-07-30/23:50:51		testing score of gradient boost is 0.8304924864841817
+2022-07-30/23:50:51		hyperparameter tuning of random forest has begun
+2022-07-30/23:50:51		hyperparameter tuning has done successfully
+2022-07-30/23:50:51		training of random forest model has begun
+2022-07-30/23:50:57		training score of random forest is 0.8907081798832016
+2022-07-30/23:50:57		training done
+2022-07-30/23:50:57		predicitng started
+2022-07-30/23:50:57		testing score random forest is 0.8356888805215736
+2022-07-30/23:50:57		hyperparameter tuning of decision tree regressor has started
+2022-07-30/23:50:57		hyperparameter is successfully completed
+2022-07-30/23:50:57		training of model has started
+2022-07-30/23:50:57		training score of decision tree is 0.907337038216115
+2022-07-30/23:50:57		training done
+2022-07-30/23:50:57		prediction has started
+2022-07-30/23:50:57		testing score of decision tree is 0.7920270117141047
+2022-07-30/23:50:51		file is already been imported from the cassandra database
+2022-07-30/23:50:51		encoding started
+2022-07-30/23:50:51		done with encoding
+2022-07-30/23:50:51		splitting done
+2022-07-30/23:50:51		splitting done
+2022-07-30/23:50:51		training scaling is done
+2022-07-30/23:50:51		splitting done
+2022-07-30/23:50:51		testing scaling is done
+2022-07-30/23:50:51		splitting done
+2022-07-30/23:50:51		training scaling is done
+2022-07-30/23:50:51		splitting done
+2022-07-30/23:50:51		testing scaling is done
+2022-07-30/23:50:51		splitting done
+2022-07-30/23:50:51		splitting done
+2022-07-30/23:50:51		splitting done
+2022-07-30/23:50:51		training scaling is done
+2022-07-30/23:50:51		splitting done
+2022-07-30/23:50:51		testing scaling is done
+2022-07-30/23:50:57		splitting done
+2022-07-30/23:50:57		training scaling is done
+2022-07-30/23:50:57		splitting done
+2022-07-30/23:50:57		testing scaling is done
+2022-07-30/23:50:57		splitting done
+2022-07-30/23:50:57		splitting done
+2022-07-30/23:50:57		splitting done
+2022-07-30/23:50:57		training scaling is done
+2022-07-30/23:50:57		splitting done
+2022-07-30/23:50:57		testing scaling is done
+2022-07-30/23:50:57		splitting done
+2022-07-30/23:50:57		training scaling is done
+2022-07-30/23:50:57		splitting done
+2022-07-30/23:50:57		testing scaling is done
+2022-07-30/23:50:57		splitting done
+2022-07-30/23:50:51		model selection has begun
+2022-07-30/23:50:51		gradient boost score is 0.8304924864841817
+2022-07-30/23:50:57		random forest score is 0.8356888805215736
+2022-07-30/23:50:57		decision tree score is 0.7920270117141047
+2022-07-30/23:50:57		maximum score model is random_forest with score: 0.8356888805215736
+2022-07-30/23:50:57		done with encoding
+2022-07-30/23:50:57		final prediction for input is [10669.05421095]
+2022-07-31/00:04:54		training of Gradient boost algorithm has begun
+2022-07-31/00:04:54		training score of gradient boost is 0.908909127438422
+2022-07-31/00:04:54		training done
+2022-07-31/00:04:54		prediction started
+2022-07-31/00:04:54		testing score of gradient boost is 0.8304924864841817
+2022-07-31/00:04:54		hyperparameter tuning of random forest has begun
+2022-07-31/00:04:54		hyperparameter tuning has done successfully
+2022-07-31/00:04:54		training of random forest model has begun
+2022-07-31/00:04:59		training score of random forest is 0.888675528189517
+2022-07-31/00:04:59		training done
+2022-07-31/00:04:59		predicitng started
+2022-07-31/00:04:59		testing score random forest is 0.8367913949364562
+2022-07-31/00:04:59		hyperparameter tuning of decision tree regressor has started
+2022-07-31/00:04:59		hyperparameter is successfully completed
+2022-07-31/00:04:59		training of model has started
+2022-07-31/00:04:59		training score of decision tree is 0.907337038216115
+2022-07-31/00:04:59		training done
+2022-07-31/00:04:59		prediction has started
+2022-07-31/00:04:59		testing score of decision tree is 0.7920270117141047
+2022-07-31/00:04:54		file is already been imported from the cassandra database
+2022-07-31/00:04:54		encoding started
+2022-07-31/00:04:54		done with encoding
+2022-07-31/00:04:54		splitting done
+2022-07-31/00:04:54		splitting done
+2022-07-31/00:04:54		training scaling is done
+2022-07-31/00:04:54		splitting done
+2022-07-31/00:04:54		testing scaling is done
+2022-07-31/00:04:54		splitting done
+2022-07-31/00:04:54		training scaling is done
+2022-07-31/00:04:54		splitting done
+2022-07-31/00:04:54		testing scaling is done
+2022-07-31/00:04:54		splitting done
+2022-07-31/00:04:54		splitting done
+2022-07-31/00:04:54		splitting done
+2022-07-31/00:04:54		training scaling is done
+2022-07-31/00:04:54		splitting done
+2022-07-31/00:04:54		testing scaling is done
+2022-07-31/00:04:59		splitting done
+2022-07-31/00:04:59		training scaling is done
+2022-07-31/00:04:59		splitting done
+2022-07-31/00:04:59		testing scaling is done
+2022-07-31/00:04:59		splitting done
+2022-07-31/00:04:59		splitting done
+2022-07-31/00:04:59		splitting done
+2022-07-31/00:04:59		training scaling is done
+2022-07-31/00:04:59		splitting done
+2022-07-31/00:04:59		testing scaling is done
+2022-07-31/00:04:59		splitting done
+2022-07-31/00:04:59		training scaling is done
+2022-07-31/00:04:59		splitting done
+2022-07-31/00:04:59		testing scaling is done
+2022-07-31/00:04:59		splitting done
+2022-07-31/00:04:54		model selection has begun
+2022-07-31/00:04:54		gradient boost score is 0.8304924864841817
+2022-07-31/00:04:59		random forest score is 0.8367913949364562
+2022-07-31/00:04:59		decision tree score is 0.7920270117141047
+2022-07-31/00:04:59		maximum score model is random_forest with score: 0.8367913949364562
+2022-07-31/00:04:59		done with encoding
+2022-07-31/00:04:59		final prediction for input is [9481.14171016]
+2022-07-31/08:28:48		training of Gradient boost algorithm has begun
+2022-07-31/08:28:48		training score of gradient boost is 0.908909127438422
+2022-07-31/08:28:48		training done
+2022-07-31/08:28:48		prediction started
+2022-07-31/08:28:48		testing score of gradient boost is 0.8309606967853256
+2022-07-31/08:28:48		hyperparameter tuning of random forest has begun
+2022-07-31/08:28:48		hyperparameter tuning has done successfully
+2022-07-31/08:28:48		training of random forest model has begun
+2022-07-31/08:28:53		training score of random forest is 0.8916753570860703
+2022-07-31/08:28:53		training done
+2022-07-31/08:28:53		predicitng started
+2022-07-31/08:28:53		testing score random forest is 0.8370024585583142
+2022-07-31/08:28:53		hyperparameter tuning of decision tree regressor has started
+2022-07-31/08:28:53		hyperparameter is successfully completed
+2022-07-31/08:28:53		training of model has started
+2022-07-31/08:28:53		training score of decision tree is 0.907337038216115
+2022-07-31/08:28:53		training done
+2022-07-31/08:28:53		prediction has started
+2022-07-31/08:28:53		testing score of decision tree is 0.7962438258011811
+2022-07-31/08:28:48		file is already been imported from the cassandra database
+2022-07-31/08:28:48		encoding started
+2022-07-31/08:28:48		done with encoding
+2022-07-31/08:28:48		splitting done
+2022-07-31/08:28:48		splitting done
+2022-07-31/08:28:48		training scaling is done
+2022-07-31/08:28:48		splitting done
+2022-07-31/08:28:48		testing scaling is done
+2022-07-31/08:28:48		splitting done
+2022-07-31/08:28:48		training scaling is done
+2022-07-31/08:28:48		splitting done
+2022-07-31/08:28:48		testing scaling is done
+2022-07-31/08:28:48		splitting done
+2022-07-31/08:28:48		splitting done
+2022-07-31/08:28:48		splitting done
+2022-07-31/08:28:48		training scaling is done
+2022-07-31/08:28:48		splitting done
+2022-07-31/08:28:48		testing scaling is done
+2022-07-31/08:28:53		splitting done
+2022-07-31/08:28:53		training scaling is done
+2022-07-31/08:28:53		splitting done
+2022-07-31/08:28:53		testing scaling is done
+2022-07-31/08:28:53		splitting done
+2022-07-31/08:28:53		splitting done
+2022-07-31/08:28:53		splitting done
+2022-07-31/08:28:53		training scaling is done
+2022-07-31/08:28:53		splitting done
+2022-07-31/08:28:53		testing scaling is done
+2022-07-31/08:28:53		splitting done
+2022-07-31/08:28:53		training scaling is done
+2022-07-31/08:28:53		splitting done
+2022-07-31/08:28:53		testing scaling is done
+2022-07-31/08:28:53		splitting done
+2022-07-31/08:28:48		model selection has begun
+2022-07-31/08:28:48		gradient boost score is 0.8309606967853256
+2022-07-31/08:28:53		random forest score is 0.8370024585583142
+2022-07-31/08:28:53		decision tree score is 0.7962438258011811
+2022-07-31/08:28:53		maximum score model is random_forest with score: 0.8370024585583142
+2022-07-31/08:28:53		done with encoding
+2022-07-31/08:28:53		final prediction for input is [6799.79071634]
+2022-07-31/08:53:45		training of Gradient boost algorithm has begun
+2022-07-31/08:53:45		training score of gradient boost is 0.908909127438422
+2022-07-31/08:53:45		training done
+2022-07-31/08:53:45		prediction started
+2022-07-31/08:53:45		testing score of gradient boost is 0.8304464218033029
+2022-07-31/08:53:45		hyperparameter tuning of random forest has begun
+2022-07-31/08:53:45		hyperparameter tuning has done successfully
+2022-07-31/08:53:45		training of random forest model has begun
+2022-07-31/08:53:50		training score of random forest is 0.8911319997870645
+2022-07-31/08:53:50		training done
+2022-07-31/08:53:50		predicitng started
+2022-07-31/08:53:50		testing score random forest is 0.8407050552121684
+2022-07-31/08:53:50		hyperparameter tuning of decision tree regressor has started
+2022-07-31/08:53:50		hyperparameter is successfully completed
+2022-07-31/08:53:50		training of model has started
+2022-07-31/08:53:50		training score of decision tree is 0.907337038216115
+2022-07-31/08:53:50		training done
+2022-07-31/08:53:50		prediction has started
+2022-07-31/08:53:50		testing score of decision tree is 0.7920270117141047
+2022-07-31/08:53:45		file is already been imported from the cassandra database
+2022-07-31/08:53:45		encoding started
+2022-07-31/08:53:45		done with encoding
+2022-07-31/08:53:45		splitting done
+2022-07-31/08:53:45		splitting done
+2022-07-31/08:53:45		training scaling is done
+2022-07-31/08:53:45		splitting done
+2022-07-31/08:53:45		testing scaling is done
+2022-07-31/08:53:45		splitting done
+2022-07-31/08:53:45		training scaling is done
+2022-07-31/08:53:45		splitting done
+2022-07-31/08:53:45		testing scaling is done
+2022-07-31/08:53:45		splitting done
+2022-07-31/08:53:45		splitting done
+2022-07-31/08:53:45		splitting done
+2022-07-31/08:53:45		training scaling is done
+2022-07-31/08:53:45		splitting done
+2022-07-31/08:53:45		testing scaling is done
+2022-07-31/08:53:50		splitting done
+2022-07-31/08:53:50		training scaling is done
+2022-07-31/08:53:50		splitting done
+2022-07-31/08:53:50		testing scaling is done
+2022-07-31/08:53:50		splitting done
+2022-07-31/08:53:50		splitting done
+2022-07-31/08:53:50		splitting done
+2022-07-31/08:53:50		training scaling is done
+2022-07-31/08:53:50		splitting done
+2022-07-31/08:53:50		testing scaling is done
+2022-07-31/08:53:50		splitting done
+2022-07-31/08:53:50		training scaling is done
+2022-07-31/08:53:50		splitting done
+2022-07-31/08:53:50		testing scaling is done
+2022-07-31/08:53:50		splitting done
+2022-07-31/08:53:45		model selection has begun
+2022-07-31/08:53:45		gradient boost score is 0.8304464218033029
+2022-07-31/08:53:50		random forest score is 0.8407050552121684
+2022-07-31/08:53:50		decision tree score is 0.7920270117141047
+2022-07-31/08:53:50		maximum score model is random_forest with score: 0.8407050552121684
+2022-07-31/08:53:50		done with encoding
+2022-07-31/08:53:50		final prediction for input is [10481.20840597]
+2022-07-31/09:11:37		training of Gradient boost algorithm has begun
+2022-07-31/09:11:37		training score of gradient boost is 0.908909127438422
+2022-07-31/09:11:37		training done
+2022-07-31/09:11:37		prediction started
+2022-07-31/09:11:37		testing score of gradient boost is 0.8304464218033031
+2022-07-31/09:11:37		hyperparameter tuning of random forest has begun
+2022-07-31/09:11:37		hyperparameter tuning has done successfully
+2022-07-31/09:11:37		training of random forest model has begun
+2022-07-31/09:11:42		training score of random forest is 0.8895951908801362
+2022-07-31/09:11:42		training done
+2022-07-31/09:11:42		predicitng started
+2022-07-31/09:11:42		testing score random forest is 0.8421218682232614
+2022-07-31/09:11:42		hyperparameter tuning of decision tree regressor has started
+2022-07-31/09:11:42		hyperparameter is successfully completed
+2022-07-31/09:11:42		training of model has started
+2022-07-31/09:11:42		training score of decision tree is 0.9035368382222067
+2022-07-31/09:11:42		training done
+2022-07-31/09:11:42		prediction has started
+2022-07-31/09:11:42		testing score of decision tree is 0.8095258969570053
+2022-07-31/09:11:37		file is already been imported from the cassandra database
+2022-07-31/09:11:37		encoding started
+2022-07-31/09:11:37		done with encoding
+2022-07-31/09:11:37		splitting done
+2022-07-31/09:11:37		splitting done
+2022-07-31/09:11:37		training scaling is done
+2022-07-31/09:11:37		splitting done
+2022-07-31/09:11:37		testing scaling is done
+2022-07-31/09:11:37		splitting done
+2022-07-31/09:11:37		training scaling is done
+2022-07-31/09:11:37		splitting done
+2022-07-31/09:11:37		testing scaling is done
+2022-07-31/09:11:37		splitting done
+2022-07-31/09:11:37		splitting done
+2022-07-31/09:11:37		splitting done
+2022-07-31/09:11:37		training scaling is done
+2022-07-31/09:11:37		splitting done
+2022-07-31/09:11:37		testing scaling is done
+2022-07-31/09:11:42		splitting done
+2022-07-31/09:11:42		training scaling is done
+2022-07-31/09:11:42		splitting done
+2022-07-31/09:11:42		testing scaling is done
+2022-07-31/09:11:42		splitting done
+2022-07-31/09:11:42		splitting done
+2022-07-31/09:11:42		splitting done
+2022-07-31/09:11:42		training scaling is done
+2022-07-31/09:11:42		splitting done
+2022-07-31/09:11:42		testing scaling is done
+2022-07-31/09:11:42		splitting done
+2022-07-31/09:11:42		training scaling is done
+2022-07-31/09:11:42		splitting done
+2022-07-31/09:11:42		testing scaling is done
+2022-07-31/09:11:42		splitting done
+2022-07-31/09:11:37		model selection has begun
+2022-07-31/09:11:37		gradient boost score is 0.8304464218033031
+2022-07-31/09:11:42		random forest score is 0.8421218682232614
+2022-07-31/09:11:42		decision tree score is 0.8095258969570053
+2022-07-31/09:11:42		maximum score model is random_forest with score: 0.8421218682232614
+2022-07-31/09:11:42		done with encoding
+2022-07-31/09:11:42		final prediction for input is [9906.98310125]
+2022-07-31/09:13:02		training of Gradient boost algorithm has begun
+2022-07-31/09:13:02		training score of gradient boost is 0.908909127438422
+2022-07-31/09:13:02		training done
+2022-07-31/09:13:02		prediction started
+2022-07-31/09:13:02		testing score of gradient boost is 0.8309606967853256
+2022-07-31/09:13:02		hyperparameter tuning of random forest has begun
+2022-07-31/09:13:02		hyperparameter tuning has done successfully
+2022-07-31/09:13:02		training of random forest model has begun
+2022-07-31/09:13:04		training score of random forest is 0.8904209925091896
+2022-07-31/09:13:04		training done
+2022-07-31/09:13:04		predicitng started
+2022-07-31/09:13:04		testing score random forest is 0.8383390343063146
+2022-07-31/09:13:04		hyperparameter tuning of decision tree regressor has started
+2022-07-31/09:13:04		hyperparameter is successfully completed
+2022-07-31/09:13:04		training of model has started
+2022-07-31/09:13:04		training score of decision tree is 0.9035368382222067
+2022-07-31/09:13:04		training done
+2022-07-31/09:13:04		prediction has started
+2022-07-31/09:13:04		testing score of decision tree is 0.8095258969570053
+2022-07-31/09:13:02		file is already been imported from the cassandra database
+2022-07-31/09:13:02		encoding started
+2022-07-31/09:13:02		done with encoding
+2022-07-31/09:13:02		splitting done
+2022-07-31/09:13:02		splitting done
+2022-07-31/09:13:02		training scaling is done
+2022-07-31/09:13:02		splitting done
+2022-07-31/09:13:02		testing scaling is done
+2022-07-31/09:13:02		splitting done
+2022-07-31/09:13:02		training scaling is done
+2022-07-31/09:13:02		splitting done
+2022-07-31/09:13:02		testing scaling is done
+2022-07-31/09:13:02		splitting done
+2022-07-31/09:13:02		splitting done
+2022-07-31/09:13:02		splitting done
+2022-07-31/09:13:02		training scaling is done
+2022-07-31/09:13:02		splitting done
+2022-07-31/09:13:02		testing scaling is done
+2022-07-31/09:13:04		splitting done
+2022-07-31/09:13:04		training scaling is done
+2022-07-31/09:13:04		splitting done
+2022-07-31/09:13:04		testing scaling is done
+2022-07-31/09:13:04		splitting done
+2022-07-31/09:13:04		splitting done
+2022-07-31/09:13:04		splitting done
+2022-07-31/09:13:04		training scaling is done
+2022-07-31/09:13:04		splitting done
+2022-07-31/09:13:04		testing scaling is done
+2022-07-31/09:13:04		splitting done
+2022-07-31/09:13:04		training scaling is done
+2022-07-31/09:13:04		splitting done
+2022-07-31/09:13:04		testing scaling is done
+2022-07-31/09:13:04		splitting done
+2022-07-31/09:13:02		model selection has begun
+2022-07-31/09:13:02		gradient boost score is 0.8309606967853256
+2022-07-31/09:13:04		random forest score is 0.8383390343063146
+2022-07-31/09:13:04		decision tree score is 0.8095258969570053
+2022-07-31/09:13:04		maximum score model is random_forest with score: 0.8383390343063146
+2022-07-31/09:13:04		done with encoding
+2022-07-31/09:13:04		final prediction for input is [7330.82794559]
+2022-07-31/09:14:43		training of Gradient boost algorithm has begun
+2022-07-31/09:14:43		training score of gradient boost is 0.908909127438422
+2022-07-31/09:14:43		training done
+2022-07-31/09:14:43		prediction started
+2022-07-31/09:14:43		testing score of gradient boost is 0.8313599371392852
+2022-07-31/09:14:43		hyperparameter tuning of random forest has begun
+2022-07-31/09:14:43		hyperparameter tuning has done successfully
+2022-07-31/09:14:43		training of random forest model has begun
+2022-07-31/09:14:48		training score of random forest is 0.8912984082321713
+2022-07-31/09:14:48		training done
+2022-07-31/09:14:48		predicitng started
+2022-07-31/09:14:48		testing score random forest is 0.8385106965987645
+2022-07-31/09:14:48		hyperparameter tuning of decision tree regressor has started
+2022-07-31/09:14:48		hyperparameter is successfully completed
+2022-07-31/09:14:48		training of model has started
+2022-07-31/09:14:48		training score of decision tree is 0.907337038216115
+2022-07-31/09:14:48		training done
+2022-07-31/09:14:48		prediction has started
+2022-07-31/09:14:48		testing score of decision tree is 0.7962438258011811
+2022-07-31/09:14:43		file is already been imported from the cassandra database
+2022-07-31/09:14:43		encoding started
+2022-07-31/09:14:43		done with encoding
+2022-07-31/09:14:43		splitting done
+2022-07-31/09:14:43		splitting done
+2022-07-31/09:14:43		training scaling is done
+2022-07-31/09:14:43		splitting done
+2022-07-31/09:14:43		testing scaling is done
+2022-07-31/09:14:43		splitting done
+2022-07-31/09:14:43		training scaling is done
+2022-07-31/09:14:43		splitting done
+2022-07-31/09:14:43		testing scaling is done
+2022-07-31/09:14:43		splitting done
+2022-07-31/09:14:43		splitting done
+2022-07-31/09:14:43		splitting done
+2022-07-31/09:14:43		training scaling is done
+2022-07-31/09:14:43		splitting done
+2022-07-31/09:14:43		testing scaling is done
+2022-07-31/09:14:48		splitting done
+2022-07-31/09:14:48		training scaling is done
+2022-07-31/09:14:48		splitting done
+2022-07-31/09:14:48		testing scaling is done
+2022-07-31/09:14:48		splitting done
+2022-07-31/09:14:48		splitting done
+2022-07-31/09:14:48		splitting done
+2022-07-31/09:14:48		training scaling is done
+2022-07-31/09:14:48		splitting done
+2022-07-31/09:14:48		testing scaling is done
+2022-07-31/09:14:48		splitting done
+2022-07-31/09:14:48		training scaling is done
+2022-07-31/09:14:48		splitting done
+2022-07-31/09:14:48		testing scaling is done
+2022-07-31/09:14:48		splitting done
+2022-07-31/09:14:43		model selection has begun
+2022-07-31/09:14:43		gradient boost score is 0.8313599371392852
+2022-07-31/09:14:48		random forest score is 0.8385106965987645
+2022-07-31/09:14:48		decision tree score is 0.7962438258011811
+2022-07-31/09:14:48		maximum score model is random_forest with score: 0.8385106965987645
+2022-07-31/09:14:48		done with encoding
+2022-07-31/09:14:48		final prediction for input is [6692.12139133]
+2022-07-31/12:31:48		training of Gradient boost algorithm has begun
+2022-07-31/12:31:48		training score of gradient boost is 0.908909127438422
+2022-07-31/12:31:48		training done
+2022-07-31/12:31:48		prediction started
+2022-07-31/12:31:48		testing score of gradient boost is 0.8304464218033029
+2022-07-31/12:31:48		hyperparameter tuning of random forest has begun
+2022-07-31/12:31:48		hyperparameter tuning has done successfully
+2022-07-31/12:31:48		training of random forest model has begun
+2022-07-31/12:31:53		training score of random forest is 0.8932644765301084
+2022-07-31/12:31:53		training done
+2022-07-31/12:31:53		predicitng started
+2022-07-31/12:31:53		testing score random forest is 0.838406356662263
+2022-07-31/12:31:53		hyperparameter tuning of decision tree regressor has started
+2022-07-31/12:31:53		hyperparameter is successfully completed
+2022-07-31/12:31:53		training of model has started
+2022-07-31/12:31:53		training score of decision tree is 0.907337038216115
+2022-07-31/12:31:53		training done
+2022-07-31/12:31:53		prediction has started
+2022-07-31/12:31:53		testing score of decision tree is 0.7920270117141047
+2022-07-31/12:31:48		file is already been imported from the cassandra database
+2022-07-31/12:31:48		encoding started
+2022-07-31/12:31:48		done with encoding
+2022-07-31/12:31:48		splitting done
+2022-07-31/12:31:48		splitting done
+2022-07-31/12:31:48		training scaling is done
+2022-07-31/12:31:48		splitting done
+2022-07-31/12:31:48		testing scaling is done
+2022-07-31/12:31:48		splitting done
+2022-07-31/12:31:48		training scaling is done
+2022-07-31/12:31:48		splitting done
+2022-07-31/12:31:48		testing scaling is done
+2022-07-31/12:31:48		splitting done
+2022-07-31/12:31:48		splitting done
+2022-07-31/12:31:48		splitting done
+2022-07-31/12:31:48		training scaling is done
+2022-07-31/12:31:48		splitting done
+2022-07-31/12:31:48		testing scaling is done
+2022-07-31/12:31:53		splitting done
+2022-07-31/12:31:53		training scaling is done
+2022-07-31/12:31:53		splitting done
+2022-07-31/12:31:53		testing scaling is done
+2022-07-31/12:31:53		splitting done
+2022-07-31/12:31:53		splitting done
+2022-07-31/12:31:53		splitting done
+2022-07-31/12:31:53		training scaling is done
+2022-07-31/12:31:53		splitting done
+2022-07-31/12:31:53		testing scaling is done
+2022-07-31/12:31:53		splitting done
+2022-07-31/12:31:53		training scaling is done
+2022-07-31/12:31:53		splitting done
+2022-07-31/12:31:53		testing scaling is done
+2022-07-31/12:31:53		splitting done
+2022-07-31/12:31:48		model selection has begun
+2022-07-31/12:31:48		gradient boost score is 0.8304464218033029
+2022-07-31/12:31:53		random forest score is 0.838406356662263
+2022-07-31/12:31:53		decision tree score is 0.7920270117141047
+2022-07-31/12:31:53		maximum score model is random_forest with score: 0.838406356662263
+2022-07-31/12:31:53		done with encoding
+2022-07-31/12:31:53		final prediction for input is [9950.30592809]
+2022-08-01/11:10:58		training of Gradient boost algorithm has begun
+2022-08-01/11:10:58		training score of gradient boost is 0.908909127438422
+2022-08-01/11:10:58		training done
+2022-08-01/11:10:58		prediction started
+2022-08-01/11:10:58		testing score of gradient boost is 0.830930472435
+2022-08-01/11:10:58		hyperparameter tuning of random forest has begun
+2022-08-01/11:10:58		hyperparameter tuning has done successfully
+2022-08-01/11:10:58		training of random forest model has begun
+2022-08-01/11:11:04		training score of random forest is 0.8901637722902653
+2022-08-01/11:11:04		training done
+2022-08-01/11:11:04		predicitng started
+2022-08-01/11:11:04		testing score random forest is 0.8387451436835386
+2022-08-01/11:11:04		hyperparameter tuning of decision tree regressor has started
+2022-08-01/11:11:04		hyperparameter is successfully completed
+2022-08-01/11:11:04		training of model has started
+2022-08-01/11:11:04		training score of decision tree is 0.9035368382222067
+2022-08-01/11:11:04		training done
+2022-08-01/11:11:04		prediction has started
+2022-08-01/11:11:04		testing score of decision tree is 0.8095258969570053
+2022-08-01/11:10:58		file is already been imported from the cassandra database
+2022-08-01/11:10:58		encoding started
+2022-08-01/11:10:58		done with encoding
+2022-08-01/11:10:58		splitting done
+2022-08-01/11:10:58		splitting done
+2022-08-01/11:10:58		training scaling is done
+2022-08-01/11:10:58		splitting done
+2022-08-01/11:10:58		testing scaling is done
+2022-08-01/11:10:58		splitting done
+2022-08-01/11:10:58		training scaling is done
+2022-08-01/11:10:58		splitting done
+2022-08-01/11:10:58		testing scaling is done
+2022-08-01/11:10:58		splitting done
+2022-08-01/11:10:58		splitting done
+2022-08-01/11:10:58		splitting done
+2022-08-01/11:10:58		training scaling is done
+2022-08-01/11:10:58		splitting done
+2022-08-01/11:10:58		testing scaling is done
+2022-08-01/11:11:04		splitting done
+2022-08-01/11:11:04		training scaling is done
+2022-08-01/11:11:04		splitting done
+2022-08-01/11:11:04		testing scaling is done
+2022-08-01/11:11:04		splitting done
+2022-08-01/11:11:04		splitting done
+2022-08-01/11:11:04		splitting done
+2022-08-01/11:11:04		training scaling is done
+2022-08-01/11:11:04		splitting done
+2022-08-01/11:11:04		testing scaling is done
+2022-08-01/11:11:04		splitting done
+2022-08-01/11:11:04		training scaling is done
+2022-08-01/11:11:04		splitting done
+2022-08-01/11:11:04		testing scaling is done
+2022-08-01/11:11:04		splitting done
+2022-08-01/11:10:58		model selection has begun
+2022-08-01/11:10:58		gradient boost score is 0.830930472435
+2022-08-01/11:11:04		random forest score is 0.8387451436835386
+2022-08-01/11:11:04		decision tree score is 0.8095258969570053
+2022-08-01/11:11:04		maximum score model is random_forest with score: 0.8387451436835386
+2022-08-01/11:11:04		done with encoding
+2022-08-01/11:11:04		final prediction for input is [6944.46911245]
+2022-08-02/12:37:59		training of Gradient boost algorithm has begun
+2022-08-02/12:37:59		training score of gradient boost is 0.908909127438422
+2022-08-02/12:37:59		training done
+2022-08-02/12:37:59		prediction started
+2022-08-02/12:37:59		testing score of gradient boost is 0.830462262133856
+2022-08-02/12:37:59		hyperparameter tuning of random forest has begun
+2022-08-02/12:37:59		hyperparameter tuning has done successfully
+2022-08-02/12:37:59		training of random forest model has begun
+2022-08-02/12:38:04		training score of random forest is 0.8893556619435801
+2022-08-02/12:38:04		training done
+2022-08-02/12:38:04		predicitng started
+2022-08-02/12:38:04		testing score random forest is 0.8393937490638185
+2022-08-02/12:38:04		hyperparameter tuning of decision tree regressor has started
+2022-08-02/12:38:04		hyperparameter is successfully completed
+2022-08-02/12:38:04		training of model has started
+2022-08-02/12:38:04		training score of decision tree is 0.907337038216115
+2022-08-02/12:38:04		training done
+2022-08-02/12:38:04		prediction has started
+2022-08-02/12:38:04		testing score of decision tree is 0.7920270117141047
+2022-08-02/12:37:58		file is already been imported from the cassandra database
+2022-08-02/12:37:58		encoding started
+2022-08-02/12:37:59		done with encoding
+2022-08-02/12:37:59		splitting done
+2022-08-02/12:37:59		splitting done
+2022-08-02/12:37:59		training scaling is done
+2022-08-02/12:37:59		splitting done
+2022-08-02/12:37:59		testing scaling is done
+2022-08-02/12:37:59		splitting done
+2022-08-02/12:37:59		training scaling is done
+2022-08-02/12:37:59		splitting done
+2022-08-02/12:37:59		testing scaling is done
+2022-08-02/12:37:59		splitting done
+2022-08-02/12:37:59		splitting done
+2022-08-02/12:37:59		splitting done
+2022-08-02/12:37:59		training scaling is done
+2022-08-02/12:37:59		splitting done
+2022-08-02/12:37:59		testing scaling is done
+2022-08-02/12:38:04		splitting done
+2022-08-02/12:38:04		training scaling is done
+2022-08-02/12:38:04		splitting done
+2022-08-02/12:38:04		testing scaling is done
+2022-08-02/12:38:04		splitting done
+2022-08-02/12:38:04		splitting done
+2022-08-02/12:38:04		splitting done
+2022-08-02/12:38:04		training scaling is done
+2022-08-02/12:38:04		splitting done
+2022-08-02/12:38:04		testing scaling is done
+2022-08-02/12:38:04		splitting done
+2022-08-02/12:38:04		training scaling is done
+2022-08-02/12:38:04		splitting done
+2022-08-02/12:38:04		testing scaling is done
+2022-08-02/12:38:04		splitting done
+2022-08-02/12:37:59		model selection has begun
+2022-08-02/12:37:59		gradient boost score is 0.830462262133856
+2022-08-02/12:38:04		random forest score is 0.8393937490638185
+2022-08-02/12:38:04		decision tree score is 0.7920270117141047
+2022-08-02/12:38:04		maximum score model is random_forest with score: 0.8393937490638185
+2022-08-02/12:38:04		done with encoding
+2022-08-02/12:39:29		training of Gradient boost algorithm has begun
+2022-08-02/12:39:29		training score of gradient boost is 0.908909127438422
+2022-08-02/12:39:29		training done
+2022-08-02/12:39:29		prediction started
+2022-08-02/12:39:29		testing score of gradient boost is 0.8316230952928276
+2022-08-02/12:39:29		hyperparameter tuning of random forest has begun
+2022-08-02/12:39:29		hyperparameter tuning has done successfully
+2022-08-02/12:39:29		training of random forest model has begun
+2022-08-02/12:39:33		training score of random forest is 0.8891482030265032
+2022-08-02/12:39:33		training done
+2022-08-02/12:39:33		predicitng started
+2022-08-02/12:39:33		testing score random forest is 0.838903393897201
+2022-08-02/12:39:33		hyperparameter tuning of decision tree regressor has started
+2022-08-02/12:39:33		hyperparameter is successfully completed
+2022-08-02/12:39:33		training of model has started
+2022-08-02/12:39:33		training score of decision tree is 0.9035368382222067
+2022-08-02/12:39:33		training done
+2022-08-02/12:39:33		prediction has started
+2022-08-02/12:39:33		testing score of decision tree is 0.8095258969570053
+2022-08-02/12:39:29		file is already been imported from the cassandra database
+2022-08-02/12:39:29		encoding started
+2022-08-02/12:39:29		done with encoding
+2022-08-02/12:39:29		splitting done
+2022-08-02/12:39:29		splitting done
+2022-08-02/12:39:29		training scaling is done
+2022-08-02/12:39:29		splitting done
+2022-08-02/12:39:29		testing scaling is done
+2022-08-02/12:39:29		splitting done
+2022-08-02/12:39:29		training scaling is done
+2022-08-02/12:39:29		splitting done
+2022-08-02/12:39:29		testing scaling is done
+2022-08-02/12:39:29		splitting done
+2022-08-02/12:39:29		splitting done
+2022-08-02/12:39:29		splitting done
+2022-08-02/12:39:29		training scaling is done
+2022-08-02/12:39:29		splitting done
+2022-08-02/12:39:29		testing scaling is done
+2022-08-02/12:39:33		splitting done
+2022-08-02/12:39:33		training scaling is done
+2022-08-02/12:39:33		splitting done
+2022-08-02/12:39:33		testing scaling is done
+2022-08-02/12:39:33		splitting done
+2022-08-02/12:39:33		splitting done
+2022-08-02/12:39:33		splitting done
+2022-08-02/12:39:33		training scaling is done
+2022-08-02/12:39:33		splitting done
+2022-08-02/12:39:33		testing scaling is done
+2022-08-02/12:39:33		splitting done
+2022-08-02/12:39:33		training scaling is done
+2022-08-02/12:39:33		splitting done
+2022-08-02/12:39:33		testing scaling is done
+2022-08-02/12:39:33		splitting done
+2022-08-02/12:39:29		model selection has begun
+2022-08-02/12:39:29		gradient boost score is 0.8316230952928276
+2022-08-02/12:39:33		random forest score is 0.838903393897201
+2022-08-02/12:39:33		decision tree score is 0.8095258969570053
+2022-08-02/12:39:33		maximum score model is random_forest with score: 0.838903393897201
+2022-08-02/12:39:33		done with encoding
+2022-08-02/12:39:33		final prediction for input is [6989.23224859]
+2022-09-05/18:01:15		training of Gradient boost algorithm has begun
+2022-09-05/18:01:16		training score of gradient boost is 0.908909127438422
+2022-09-05/18:01:16		training done
+2022-09-05/18:01:16		prediction started
+2022-09-05/18:01:16		testing score of gradient boost is 0.8313757774698384
+2022-09-05/18:01:16		hyperparameter tuning of random forest has begun
+2022-09-05/18:01:16		hyperparameter tuning has done successfully
+2022-09-05/18:01:16		training of random forest model has begun
+2022-09-05/18:01:23		training score of random forest is 0.8902458035266752
+2022-09-05/18:01:23		training done
+2022-09-05/18:01:23		predicitng started
+2022-09-05/18:01:23		testing score random forest is 0.8395985273662476
+2022-09-05/18:01:23		hyperparameter tuning of decision tree regressor has started
+2022-09-05/18:01:23		hyperparameter is successfully completed
+2022-09-05/18:01:23		training of model has started
+2022-09-05/18:01:23		training score of decision tree is 0.907337038216115
+2022-09-05/18:01:23		training done
+2022-09-05/18:01:23		prediction has started
+2022-09-05/18:01:23		testing score of decision tree is 0.7920270117141047
+2022-09-05/18:01:15		file is already been imported from the cassandra database
+2022-09-05/18:01:15		encoding started
+2022-09-05/18:01:15		done with encoding
+2022-09-05/18:01:15		splitting done
+2022-09-05/18:01:15		splitting done
+2022-09-05/18:01:15		training scaling is done
+2022-09-05/18:01:15		splitting done
+2022-09-05/18:01:15		testing scaling is done
+2022-09-05/18:01:16		splitting done
+2022-09-05/18:01:16		training scaling is done
+2022-09-05/18:01:16		splitting done
+2022-09-05/18:01:16		testing scaling is done
+2022-09-05/18:01:16		splitting done
+2022-09-05/18:01:16		splitting done
+2022-09-05/18:01:16		splitting done
+2022-09-05/18:01:16		training scaling is done
+2022-09-05/18:01:16		splitting done
+2022-09-05/18:01:16		testing scaling is done
+2022-09-05/18:01:23		splitting done
+2022-09-05/18:01:23		training scaling is done
+2022-09-05/18:01:23		splitting done
+2022-09-05/18:01:23		testing scaling is done
+2022-09-05/18:01:23		splitting done
+2022-09-05/18:01:23		splitting done
+2022-09-05/18:01:23		splitting done
+2022-09-05/18:01:23		training scaling is done
+2022-09-05/18:01:23		splitting done
+2022-09-05/18:01:23		testing scaling is done
+2022-09-05/18:01:23		splitting done
+2022-09-05/18:01:23		training scaling is done
+2022-09-05/18:01:23		splitting done
+2022-09-05/18:01:23		testing scaling is done
+2022-09-05/18:01:23		splitting done
+2022-09-05/18:01:15		model selection has begun
+2022-09-05/18:01:16		gradient boost score is 0.8313757774698384
+2022-09-05/18:01:23		random forest score is 0.8395985273662476
+2022-09-05/18:01:23		decision tree score is 0.7920270117141047
+2022-09-05/18:01:23		maximum score model is random_forest with score: 0.8395985273662476
+2022-09-05/18:01:23		done with encoding
+2022-09-05/18:01:23		final prediction for input is [5747.47179915]
+2022-09-28/19:18:19		training of Gradient boost algorithm has begun
+2022-09-28/19:18:19		training score of gradient boost is 0.908909127438422
+2022-09-28/19:18:19		training done
+2022-09-28/19:18:19		prediction started
+2022-09-28/19:18:19		testing score of gradient boost is 0.8304464218033029
+2022-09-28/19:18:19		hyperparameter tuning of random forest has begun
+2022-09-28/19:18:19		hyperparameter tuning has done successfully
+2022-09-28/19:18:19		training of random forest model has begun
+2022-09-28/19:18:24		training score of random forest is 0.8892226659065585
+2022-09-28/19:18:24		training done
+2022-09-28/19:18:24		predicitng started
+2022-09-28/19:18:24		testing score random forest is 0.8421353375842405
+2022-09-28/19:18:24		hyperparameter tuning of decision tree regressor has started
+2022-09-28/19:18:24		hyperparameter is successfully completed
+2022-09-28/19:18:24		training of model has started
+2022-09-28/19:18:24		training score of decision tree is 0.9035368382222067
+2022-09-28/19:18:24		training done
+2022-09-28/19:18:24		prediction has started
+2022-09-28/19:18:24		testing score of decision tree is 0.8095258969570053
+2022-09-28/19:18:19		file is already been imported from the cassandra database
+2022-09-28/19:18:19		encoding started
+2022-09-28/19:18:19		done with encoding
+2022-09-28/19:18:19		splitting done
+2022-09-28/19:18:19		splitting done
+2022-09-28/19:18:19		training scaling is done
+2022-09-28/19:18:19		splitting done
+2022-09-28/19:18:19		testing scaling is done
+2022-09-28/19:18:19		splitting done
+2022-09-28/19:18:19		training scaling is done
+2022-09-28/19:18:19		splitting done
+2022-09-28/19:18:19		testing scaling is done
+2022-09-28/19:18:19		splitting done
+2022-09-28/19:18:19		splitting done
+2022-09-28/19:18:19		splitting done
+2022-09-28/19:18:19		training scaling is done
+2022-09-28/19:18:19		splitting done
+2022-09-28/19:18:19		testing scaling is done
+2022-09-28/19:18:24		splitting done
+2022-09-28/19:18:24		training scaling is done
+2022-09-28/19:18:24		splitting done
+2022-09-28/19:18:24		testing scaling is done
+2022-09-28/19:18:24		splitting done
+2022-09-28/19:18:24		splitting done
+2022-09-28/19:18:24		splitting done
+2022-09-28/19:18:24		training scaling is done
+2022-09-28/19:18:24		splitting done
+2022-09-28/19:18:24		testing scaling is done
+2022-09-28/19:18:24		splitting done
+2022-09-28/19:18:24		training scaling is done
+2022-09-28/19:18:24		splitting done
+2022-09-28/19:18:24		testing scaling is done
+2022-09-28/19:18:24		splitting done
+2022-09-28/19:18:19		model selection has begun
+2022-09-28/19:18:19		gradient boost score is 0.8304464218033029
+2022-09-28/19:18:24		random forest score is 0.8421353375842405
+2022-09-28/19:18:24		decision tree score is 0.8095258969570053
+2022-09-28/19:18:24		maximum score model is random_forest with score: 0.8421353375842405
+2022-09-28/19:18:24		done with encoding
+2022-09-28/19:18:24		final prediction for input is [10122.6278026]
+2022-09-28/19:33:57		training of Gradient boost algorithm has begun
+2022-09-28/19:33:57		training score of gradient boost is 0.908909127438422
+2022-09-28/19:33:57		training done
+2022-09-28/19:33:57		prediction started
+2022-09-28/19:33:57		testing score of gradient boost is 0.830446421803303
+2022-09-28/19:33:57		hyperparameter tuning of random forest has begun
+2022-09-28/19:33:57		hyperparameter tuning has done successfully
+2022-09-28/19:33:57		training of random forest model has begun
+2022-09-28/19:34:01		training score of random forest is 0.8892204492036736
+2022-09-28/19:34:01		training done
+2022-09-28/19:34:01		predicitng started
+2022-09-28/19:34:01		testing score random forest is 0.8381644304520974
+2022-09-28/19:34:01		hyperparameter tuning of decision tree regressor has started
+2022-09-28/19:34:01		hyperparameter is successfully completed
+2022-09-28/19:34:01		training of model has started
+2022-09-28/19:34:01		training score of decision tree is 0.9035368382222067
+2022-09-28/19:34:01		training done
+2022-09-28/19:34:01		prediction has started
+2022-09-28/19:34:01		testing score of decision tree is 0.8095258969570053
+2022-09-28/19:33:57		file is already been imported from the cassandra database
+2022-09-28/19:33:57		encoding started
+2022-09-28/19:33:57		done with encoding
+2022-09-28/19:33:57		splitting done
+2022-09-28/19:33:57		splitting done
+2022-09-28/19:33:57		training scaling is done
+2022-09-28/19:33:57		splitting done
+2022-09-28/19:33:57		testing scaling is done
+2022-09-28/19:33:57		splitting done
+2022-09-28/19:33:57		training scaling is done
+2022-09-28/19:33:57		splitting done
+2022-09-28/19:33:57		testing scaling is done
+2022-09-28/19:33:57		splitting done
+2022-09-28/19:33:57		splitting done
+2022-09-28/19:33:57		splitting done
+2022-09-28/19:33:57		training scaling is done
+2022-09-28/19:33:57		splitting done
+2022-09-28/19:33:57		testing scaling is done
+2022-09-28/19:34:01		splitting done
+2022-09-28/19:34:01		training scaling is done
+2022-09-28/19:34:01		splitting done
+2022-09-28/19:34:01		testing scaling is done
+2022-09-28/19:34:01		splitting done
+2022-09-28/19:34:01		splitting done
+2022-09-28/19:34:01		splitting done
+2022-09-28/19:34:01		training scaling is done
+2022-09-28/19:34:01		splitting done
+2022-09-28/19:34:01		testing scaling is done
+2022-09-28/19:34:01		splitting done
+2022-09-28/19:34:01		training scaling is done
+2022-09-28/19:34:01		splitting done
+2022-09-28/19:34:01		testing scaling is done
+2022-09-28/19:34:01		splitting done
+2022-09-28/19:33:57		model selection has begun
+2022-09-28/19:33:57		gradient boost score is 0.830446421803303
+2022-09-28/19:34:01		random forest score is 0.8381644304520974
+2022-09-28/19:34:01		decision tree score is 0.8095258969570053
+2022-09-28/19:34:01		maximum score model is random_forest with score: 0.8381644304520974
+2022-09-28/19:34:01		done with encoding
+2022-09-28/19:34:01		final prediction for input is [3089.23054515]

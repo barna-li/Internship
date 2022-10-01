@@ -1,0 +1,54 @@
+<html>
+{% block head %}
+<head>
+  <meta charset="utf-8">
+  <title>INSURANCE PREMIUM PREDICTION</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+{% endblock %}
+
+{% block body %}
+<body>
+  <h2>A Warm welcome to the website</h2>
+  <hr>
+  <div>
+    <table>
+      <tr>
+        <td>
+          <h3 class="s">INPUT VALUES FOR PREDICTION:</h3>
+        </td>
+      </tr>
+      <form class="" action="/predict" method="post">
+        <tr>
+          <td><label>Enter AGE: </label></td>
+          <td><input type="number" name="age" ></td>
+        </tr>
+          <tr>
+          <td><label>Enter BMI: </label></td>
+          <td><input type="number" name="bmi" ></td>
+        </tr>
+          <tr>
+          <td><label>Enter NO. of Children: </label></td>
+          <td><input type="number" name="children" ></td>
+        </tr>
+          <tr>
+          <td><label>Enter REGION: </label></td>
+          <td><input type="text" name="region" ></td>
+        </tr>
+          <tr>
+          <td><label>Enter SEX: </label></td>
+          <td><input type="text" name="sex" ></td>
+        </tr>
+        <tr>
+          <td><label>Enter Is Smoker['yes' or 'no]: </label></td>
+          <td><input type="text" name="smoker" ></td>
+          <td><input type="submit" name="Submit" value="Submit"></td>
+        </tr>
+      </form>
+    </table>
+    <hr>
+  </div>
+</body>
+{% endblock %}
+</html>
+
