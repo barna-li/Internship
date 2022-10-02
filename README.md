@@ -15,3 +15,8 @@ Gradient Boosting, Decision tree, Regression
 
 The objective of the project clearly predicts about the insurance plan to be taken by
 a person in to live a life with the better health insurance policy.
+
+
+
+#Deployment Link 
+http://inspremium-env.eba-tgvagk8w.ap-northeast-1.elasticbeanstalk.com/
