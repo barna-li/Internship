@@ -4,7 +4,7 @@
 The objective of the project clearly predicts the cost of the insurance plan which gives the individual, an idea as to what kind of insurance premium they can prefer over a certain period of time looking at the constraints and viabilities of the insurance plan.e
 
 # Problem Statement
-The goal of this project is to give people an estimate of how much they need based on their individual health situation. After that, customers can work with any health insurance carrier and its plans and perks while keeping the projected cost from our study in mind. This can assist a person in concentrating on the health side of an insurance policy rather han the ineffective part.
+The goal of this project is to give people an estimate of how much they need based on their individual health situation. After that, customers can work with any health insurance carrier and its plans and perks while keeping the projected cost from our study in mind. 
 
 # Approach
 1) Insertion into Database : Cassandra Database is used for insertion and retrieval of the insurance premium dataset used for prediction.
