@@ -1,7 +1,7 @@
 # INSURANCE PREMIUM PREDICTION
 
 # Objective
-The objective of the project clearly predicts the cost of the insurance plan which gives the individual, an idea as to what kind of insurance premium they can prefer over a certain period of time looking at the constraints and viabilities of the insurance plan.e
+The objective of the project clearly predicts the cost of the insurance plan which gives the individual, an idea as to what kind of insurance premium they can prefer over a certain period of time looking at the constraints and viabilities of the insurance plan.
 
 # Problem Statement
 The goal of this project is to give people an estimate of how much they need based on their individual health situation. After that, customers can work with any health insurance carrier and its plans and perks while keeping the projected cost from our study in mind. 
