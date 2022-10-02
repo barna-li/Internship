@@ -11,9 +11,9 @@ The goal of this project is to give people an estimate of how much they need bas
 2) Data Visualisation : Plotted countplots, barplots, piecharts to get insights about the relation between dependent and independent variables.
 3) Feature Engineering : Encoded three categorical variables into numeric, and performed standarisation of data to get all values in a fixed range.
 4) Model Building : Tried out these 3 Machine learning algorithms along wiht hyperparameterized tuning using Grid Search CV that’s best fit and gives the highest accuracy for the insurance premium case:
- a) Decision tree Regressor 
- b) Gradient Boosting Regressor
- c) Random forest Regressor 
+a) Decision tree Regressor 
+b) Gradient Boosting Regressor
+c) Random forest Regressor
       
 5) Deployment : Once the best algorithm is choosen, our Flask main file which is the application.py file will be called to test our API endpoints in the developing environment. It'll act as the central configuration object for the entire application usually setting up the pieces of the application required for extended functionality. We have run this web application on our local machine as well as on AWS cloud plateform.
  
