@@ -36,8 +36,6 @@ class GradientBoost:
             scaled_x_test = self.split_obj.get_scaled_x_test()
             y_test = self.split_obj.get_yTest()
             self.logging.log(self.log_file, "prediction started")
-            df = pd.DataFrame(gb.predict(scaled_x_test))
-            df.to_csv("prediction.csv")
             self.logging.log(self.log_file, f"testing score of gradient boost is {gb.score(scaled_x_test, y_test)}")
             return [gb.score(scaled_x_test, y_test), gb]
         except Exception as e:
