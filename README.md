@@ -1,11 +1,10 @@
-# MLIntern
+# INSURANCE PREMIUM PREDICTION
 
-Problem Statement:
-The goal of this project is to give people an estimate of how much they need based on
-their individual health situation. After that, customers can work with any health
-insurance carrier and its plans and perks while keeping the projected cost from our
-study in mind. This can assist a person in concentrating on the health side of an
-insurance policy rather han the ineffective part.
+# Objective
+The objective of the project clearly predicts the cost of the insurance plan which gives the individual, an idea as to what kind of insurance premium they can prefer over a certain period of time looking at the constraints and viabilities of the insurance plan.e
+
+# Problem Statement
+The goal of this project is to give people an estimate of how much they need based on their individual health situation. After that, customers can work with any health insurance carrier and its plans and perks while keeping the projected cost from our study in mind. This can assist a person in concentrating on the health side of an insurance policy rather han the ineffective part.
 
 # Approach
 1) Insertion into Database : Cassandra Database is used for insertion and retrieval of the insurance premium dataset used for prediction.
@@ -18,16 +17,14 @@ insurance policy rather han the ineffective part.
       
 5) Deployment : Once the best algorithm is choosen, our Flask main file which is the application.py file will be called to test our API endpoints in the developing environment.It'll act as the central configuration object for the entire application usually setting up the pieces of the application required for extended functionality.This app once create can be run on local machine as well as we have deployed it in AWS cloud plateform.
  
- 
-The objective of the project clearly predicts the cost of the insurance plan which gives the individual, an idea as to what kind of insurance premium they can prefer over a certain period of time looking at the constraints and viabilities of the insurance plan.
-
 # Deployment Link 
 
-
 http://inspremium-env.eba-tgvagk8w.ap-northeast-1.elasticbeanstalk.com/
-![Screen Shot 2022-10-02 at 12 18 10 PM](https://user-images.githubusercontent.com/105154630/193457579-64e91cf7-22f4-4baf-9ec2-7b0806fe778a.png)
+
 
 # User Interface
+![Screen Shot 2022-10-02 at 12 18 10 PM](https://user-images.githubusercontent.com/105154630/193457579-64e91cf7-22f4-4baf-9ec2-7b0806fe778a.png)
+
 
 # Technology Used
 1) Python
