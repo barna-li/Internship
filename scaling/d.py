@@ -26,22 +26,7 @@ class Encoding:
         except Exception as e:
             self.logging.log(self.log_file, f"encoding failed due to {e}")
             raise e
-
-    @staticmethod
-    def encode_df_for_prediction(dataset):
-        """this is the static method which actually used to encode the data coming
-        from UI """
-        try:
-            dataset['smoker'] = np.where(dataset['smoker'] == 'yes', 1, 0)
-            dataset['sex'] = np.where(dataset['sex'] == 'male', 1, 0)
-            dic = {'southwest': 0, 'southeast': 1, 'northwest': 2, 'northeast': 3}
-            dataset["region"] = dataset["region"].map(dic)
-            log_file = open("application_logging/logging.txt", 'a+')
-            logging = App_Logger()
-            logging.log(log_file, "done with encoding")
-            return dataset
-        except Exception as e:
-            raise e
+        
 import pandas as pd
 import numpy as np
 from application_logging.logger import App_Logger
